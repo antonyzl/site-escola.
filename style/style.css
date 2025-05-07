@@ -73,3 +73,15 @@ border-radius: 30%;
     padding: 4px 8px;
 }
 
+.rodape{
+    background-color: #424e61;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+}
+
+.ropade-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
+
