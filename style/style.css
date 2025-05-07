@@ -31,7 +31,7 @@
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.escola-conteudo{
     width: 35%;
 }
 
@@ -56,5 +56,14 @@
 .estudantes-titulo{
     text-align: center;
     padding: 24px 0;
+}
+
+.estudantes-imagem{
+    width: 24px;
+}
+
+.estudantes-icone{
+    width: 24px;
+    padding: 4px 8px;
 }
 
