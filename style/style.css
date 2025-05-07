@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+.body{
+    font-family: 'Oswald', sans-serif;
+}
+
 .cabecalho{
     background-color: #424e61;
     color: white;
