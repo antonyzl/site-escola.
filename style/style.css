@@ -9,7 +9,7 @@
 }
 
 .cabecalho{
-    background-color: #424e61;
+    background-color: #000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -79,7 +79,7 @@ border-radius: 30%;
 }
 
 .rodape{
-    background-color: #424e61;
+    background-color: #000;
     text-align: center;
     color:white;
     font-size: 25px;
@@ -90,3 +90,26 @@ border-radius: 30%;
     padding: 12px 0;
 }
 
+
+@media (max-width: 768px) {
+    .cabecalho{
+    flex-direction: column;
+    text-align: center;
+    }
+
+.cabecalho-lista-item{
+    display: block;
+    margin: 8px 0;
+}
+
+.escola{
+    flex-direction: column;
+    text-align: center;
+    padding: 16px;
+}
+
+.escola-imagem{
+    
+}
+
+}
