@@ -11,7 +11,7 @@ header a{
 }
 
 header a:hover{
-    color: bisque;
+    color: rgb(99, 0, 192);
 }
 
 .body{
@@ -20,7 +20,7 @@ header a:hover{
 
 .cabecalho{
     background-color: #000;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -45,7 +45,7 @@ border-radius: 30%;
 
 .escola{
     background-image: linear-gradient(#000, #f10);
-    color: rgb(255, 0, 0);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
